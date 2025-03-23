@@ -1,10 +1,10 @@
-# Claude API CLI Chat
+# Anthropic API Example - CLI Chat
 
-This repository demonstrates a simple command-line chat implementation using the Anthropic Claude API. It serves as a foundational building block for developers looking to integrate advanced AI capabilities into their Python applications.
+This repository demonstrates a simple command-line chat implementation using the Anthropic API for access to the Claude family of models. It serves as a foundational building block for developers looking to integrate advanced AI capabilities into their Python applications.
 
 ## Overview
 
-The Anthropic Claude API provides access to Anthropic's powerful Claude models, enabling developers to build applications with state-of-the-art generative AI capabilities. This repository implements a simple command-line chat interface that maintains conversation history and shows the basic patterns that can be extended for more complex use cases.
+This API provides access to Anthropic's powerful Claude models, enabling developers to build applications with state-of-the-art generative AI capabilities. This repository implements a simple command-line chat interface that maintains conversation history and shows the basic patterns that can be extended for more complex use cases.
 
 ## Features
 
